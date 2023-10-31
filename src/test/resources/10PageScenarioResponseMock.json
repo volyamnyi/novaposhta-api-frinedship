@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": [
+    {
+      "Description": "Авдіївка (Сосницький р-н., Чернігівська обл.)",
+      "DescriptionRu": "Авдеевка (Сосницкий р-н., Черниговская обл.)",
+      "Ref": "e3f238f7-5a94-11e9-a703-005056b24375",
+      "Delivery1": "1",
+      "Delivery2": "1",
+      "Delivery3": "1",
+      "Delivery4": "1",
+      "Delivery5": "1",
+      "Delivery6": "0",
+      "Delivery7": "0",
+      "Area": "71508140-9b87-11de-822f-000c2965ae0e",
+      "SettlementType": "563ced13-f210-11e3-8c4a-0050568002cf",
+      "IsBranch": "0",
+      "PreventEntryNewStreetsUser": "0",
+      "CityID": "1550",
+      "SettlementTypeDescriptionRu": "село",
+      "SettlementTypeDescription": "село",
+      "SpecialCashCheck": 1,
+      "AreaDescription": "Чернігівська",
+      "AreaDescriptionRu": "Черниговская"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "info": {
+    "totalCount": 9359
+  },
+  "messageCodes": [],
+  "errorCodes": [],
+  "warningCodes": [],
+  "infoCodes": []
+}
